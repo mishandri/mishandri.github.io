@@ -1,3 +1,5 @@
+### [Main page](/) | [Portfolio](/portfolio/)
+
 # CV (Resume)
 
 **BI Analyst** | **Data Analyst** | **Data Engineer** | ***8+ years in IT***
@@ -125,9 +127,4 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ---
 
-## 🔗 Navigation
-
-- [Main page](/)
-- [Portfolio](/portfolio/)
-
-*Last updated: 2026*
+*Last updated: 04/2026*

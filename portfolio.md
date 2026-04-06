@@ -1,63 +1,71 @@
 ---
 layout: default
-title: Портфолио проектов
+title: Portfolio
 permalink: /portfolio/
 ---
 
-# Портфолио проектов
+### [Main page](/) | [Portfolio](/portfolio/)
 
-## 🛒 Анализ продаж маркетплейса
-
-**Задача:** Провести аналитические запросы и исследовательский анализ данных по продажам.
-
-**Технологии:** SQL, Python, DataLens
-
-**Результат:** Построен дашборд для отслеживания ключевых метрик продаж.
-
-🔗 [Смотреть проект](https://datalens.yandex/6eiukr5xyukyr)
+I have practical experience in analyzing real-world business data cases.
 
 ---
 
-## 💊 Аналитика для аптечной сети
+## 📊 Business & Product Analytics
 
-**Задача:** Провести ABC/XYZ-анализ ассортимента, обработать накладные из 1С, построить ETL-пайплайн.
-
-**Технологии:** Python, PostgreSQL, Superset, Airflow
-
-**Результат:** Созданы KPI-дашборды для руководства аптечной сети.
-
----
-
-## 🎓 Аналитика образовательного портала
-
-**Задача:** Рассчитать retention, MAU/WAU/DAU, проанализировать активность пользователей по дням недели и часам.
-
-**Технологии:** Python, PostgreSQL, Metabase, API
-
-**Результат:** Выявлены корреляции между активностью и успеваемостью студентов.
+| Case | Link |
+|--------|--------|
+| Product and Business Data Visualization in Analytical Dashboards: "Marketplace Sales Analysis" | [Link →](https://vk.cc/cRIhh8) |
+| Identifying Users with a Payment Chain Violating Payment System Policies | [Link →](https://vk.cc/cNpZqb) |
+| Recommending Unlimited Applications Based on Traffic Analysis | [Link →](https://vk.cc/cNq061) |
+| Daily Forecasting of Successful Payment Time Series | [Link →](https://vk.cc/cNq1cE) |
+| Exploratory and ABC Analysis of a Delivery Service | [Link →](https://vk.cc/cNaRBY) |
+| Identifying Payment Delinquencies on Credit Products | [Link →](https://vk.cc/cNaRCt) |
 
 ---
 
-## 🏬 Анализ розничной сети
+## 💊 Pharmacy Chain Analytics
 
-**Задача:** Провести исследовательский анализ данных и построить дашборд для аналитиков.
-
-**Технологии:** Power BI, DAX, SQL
-
-**Результат:** Интерактивный дашборд с ключевыми метриками розничной сети.
-
-🔗 [GitHub репозиторий](https://github.com/mishandri/Data-Analysis)
-
----
-
-## 📊 Оптимизация SQL-запросов
-
-**Задача:** Финансовый отчёт грузился 2+ минуты и падал в часы пик.
-
-**Решение:** Замена вложенных подзапросов на оконные функции, оптимизация индексов.
-
-**Результат:** Время выполнения сокращено до **3 секунд**.
+- **Unit Economics:** Building a model to assess product scalability
+- [ABC/XYZ Analysis: Pharmacy chain assortment, product categories](https://vk.cc/cNaRnp)
+- [Product Affinity Analysis (Market Basket Analysis)](https://vk.cc/cNaRok)
+- [Complete product sales table for all pharmacies in "product — pharmacy — units sold" format](https://vk.cc/cNaRok)
+- [Processing invoices exported from 1C](https://vk.cc/cNaRph)
+- [Receipt processing pipeline (automatic export to PostgreSQL)](https://vk.cc/cNaRpZ)
+- [Pharmacy chain KPI dashboard (Superset)](https://vk.cc/cNaRqM)
 
 ---
 
-*Больше проектов в моём [GitHub](https://github.com/mishandri)*
+## 🎓 Educational Portal Analytics
+
+- Calculating metrics (MAU, WAU, DAU, n-day/rolling/full retention)
+- [User activity analysis by day of week, hour, and ad campaigns](https://vk.cc/cNaRt9)
+- [Correlation between user activity and academic performance](https://vk.cc/cNaRt9)
+- [Peak values for registrations and unique users](https://vk.cc/cNaRt9)
+- Sales and internal balance dynamics (transaction, charge, and accrual analysis)
+- [Extracting data from website API to PostgreSQL](https://vk.cc/cNaRFl)
+- Processing payment logs and student engagement data
+- [Visualization: Dynamic dashboards in Metabase (Filters & Fields)](https://vk.cc/cNaRDk)
+
+---
+
+## 📄 IT Resume
+
+- [Analytics for corporate clients](https://vk.cc/cNaRx4)
+- [Building ETL pipelines for sales data processing](https://vk.cc/cNaRxE)
+
+---
+
+## 🏬 Retail Chain Analysis
+
+- [Conducting exploratory data analysis](https://vk.cc/cNaRyy)
+- [Building an analyst dashboard in Power BI](https://vk.cc/cNaRzt)
+
+---
+
+## 🔗 Another repositories in GitHub
+
+[GitHub](https://github.com/mishandri/).
+
+---
+
+*Last updated: 04/2026*
