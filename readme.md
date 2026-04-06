@@ -1,6 +1,6 @@
 # CV (Resume)
 
-**BI Analyst** | Data Analyst | Data Engineer | 8+ years in IT
+**BI Analyst** | **Data Analyst** | **Data Engineer** | ***8+ years in IT***
 
 [![GitHub](https://img.shields.io/badge/GitHub-mishandri-181717?style=for-the-badge&logo=github)](https://github.com/mishandri)
 [![Telegram](https://img.shields.io/badge/Telegram-hexmikhail-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hexmikhail)
