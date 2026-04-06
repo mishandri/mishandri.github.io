@@ -12,20 +12,17 @@ I have practical experience in analyzing real-world business data cases.
 
 ## Business & Product Analytics
 
-| Case | Link |
-|--------|--------|
-| Product and Business Data Visualization in Analytical Dashboards: "Marketplace Sales Analysis" | [Link →](https://vk.cc/cRIhh8) |
-| Identifying Users with a Payment Chain Violating Payment System Policies | [Link →](https://vk.cc/cNpZqb) |
-| Recommending Unlimited Applications Based on Traffic Analysis | [Link →](https://vk.cc/cNq061) |
-| Daily Forecasting of Successful Payment Time Series | [Link →](https://vk.cc/cNq1cE) |
-| Exploratory and ABC Analysis of a Delivery Service | [Link →](https://vk.cc/cNaRBY) |
-| Identifying Payment Delinquencies on Credit Products | [Link →](https://vk.cc/cNaRCt) |
+- [Product and Business Data Visualization in Analytical Dashboards: "Marketplace Sales Analysis"](https://vk.cc/cRIhh8)
+- [Identifying Users with a Payment Chain Violating Payment System Policies](https://vk.cc/cNpZqb)
+- [Recommending Unlimited Applications Based on Traffic Analysis](https://vk.cc/cNq061)
+- [Daily Forecasting of Successful Payment Time Series](https://vk.cc/cNq1cE)
+- [Exploratory and ABC Analysis of a Delivery Service](https://vk.cc/cNaRBY)
+- [Identifying Payment Delinquencies on Credit Products](https://vk.cc/cNaRCt)
 
 ---
 
 ## Pharmacy Chain Analytics
 
-- **Unit Economics:** Building a model to assess product scalability
 - [ABC/XYZ Analysis: Pharmacy chain assortment, product categories](https://vk.cc/cNaRnp)
 - [Product Affinity Analysis (Market Basket Analysis)](https://vk.cc/cNaRok)
 - [Complete product sales table for all pharmacies in "product — pharmacy — units sold" format](https://vk.cc/cNaRok)
