@@ -1,4 +1,4 @@
-# Mikhail Kolchar
+# CV (Resume)
 
 **BI Analyst** | Data Analyst | Data Engineer | 8+ years in IT
 
