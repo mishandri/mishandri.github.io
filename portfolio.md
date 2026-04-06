@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ### [Main page](/) | [Portfolio](/portfolio/)
 
-I have practical experience in analyzing real-world business data cases.
+I have practical experience in analyzing real business data cases.
 
 ---
 
