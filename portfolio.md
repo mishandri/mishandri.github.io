@@ -10,7 +10,7 @@ I have practical experience in analyzing real-world business data cases.
 
 ---
 
-## 📊 Business & Product Analytics
+## Business & Product Analytics
 
 | Case | Link |
 |--------|--------|
@@ -23,7 +23,7 @@ I have practical experience in analyzing real-world business data cases.
 
 ---
 
-## 💊 Pharmacy Chain Analytics
+## Pharmacy Chain Analytics
 
 - **Unit Economics:** Building a model to assess product scalability
 - [ABC/XYZ Analysis: Pharmacy chain assortment, product categories](https://vk.cc/cNaRnp)
@@ -35,7 +35,7 @@ I have practical experience in analyzing real-world business data cases.
 
 ---
 
-## 🎓 Educational Portal Analytics
+## Educational Portal Analytics
 
 - Calculating metrics (MAU, WAU, DAU, n-day/rolling/full retention)
 - [User activity analysis by day of week, hour, and ad campaigns](https://vk.cc/cNaRt9)
@@ -48,21 +48,21 @@ I have practical experience in analyzing real-world business data cases.
 
 ---
 
-## 📄 IT Resume
+## IT Resume
 
 - [Analytics for corporate clients](https://vk.cc/cNaRx4)
 - [Building ETL pipelines for sales data processing](https://vk.cc/cNaRxE)
 
 ---
 
-## 🏬 Retail Chain Analysis
+## Retail Chain Analysis
 
 - [Conducting exploratory data analysis](https://vk.cc/cNaRyy)
 - [Building an analyst dashboard in Power BI](https://vk.cc/cNaRzt)
 
 ---
 
-## 🔗 Another repositories in GitHub
+## Another repositories in GitHub
 
 [GitHub](https://github.com/mishandri/).
 

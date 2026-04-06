@@ -12,7 +12,7 @@
 
 ---
 
-## 📍 Contacts
+## Contacts
 
 - **Location:** Arkhangelsk, Russia (Remote / Relocate)
 - **Email:** [kolcharma@gmail.com](mailto:kolcharma@gmail.com)
@@ -21,7 +21,7 @@
 
 ---
 
-## 📋 Summary
+## Summary
 
 Over **8 years in IT**, including **6 years as a System Administrator** in the government sector, where my primary focus was automating reporting using SQL. In 2025, I decided to transition this expertise into a dedicated analytics role and completed intensive retraining.
 
@@ -29,7 +29,7 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### Denvik Analytics — BI Analyst
 *07.2025 — Present · 9 months*
@@ -92,7 +92,7 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 | Program | Institution | Period |
 |---------|-------------|--------|
@@ -107,7 +107,7 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### Core Competencies
 - **SQL:** PostgreSQL, ClickHouse, Oracle SQL, MySQL, FirebirdSQL
@@ -119,7 +119,7 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 - **DataLens Dashboard:** [datalens.ru/gallery/2gwxkzk3o5ian](https://datalens.ru/gallery/2gwxkzk3o5ian)
 - **GitHub Portfolio:** [github.com/mishandri/Data-Analysis](https://github.com/mishandri/Data-Analysis)
