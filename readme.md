@@ -125,4 +125,9 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ---
 
+## 🔗 Navigation
+
+- [Main page](/)
+- [Portfolio](/portfolio/)
+
 *Last updated: 2026*
