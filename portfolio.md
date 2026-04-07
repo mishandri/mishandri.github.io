@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-### [Main page](/) | [Portfolio](/portfolio/)
+### [About me (EN)](/) | Portfolio (EN) | [Обо мне (RU)](/about_ru/) | [Портфолио (RU)](/portfolio_ru/)
 
 I have practical experience in analyzing real business data cases.
 

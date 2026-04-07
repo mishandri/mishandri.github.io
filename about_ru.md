@@ -1,0 +1,136 @@
+---
+layout: default
+title: Обо мне
+permalink: /about_ru/
+---
+
+### [About me (EN)](/) | [Portfolio (EN)](/portfolio/) | Обо мне (RU) | [Портфолио (RU)](/portfolio_ru/)
+
+# Резюме
+
+**BI аналитик** | **Аналитик данных** | **Инженер данных** | ***7+ лет в IT***
+
+[![GitHub](https://img.shields.io/badge/GitHub-mishandri-181717?style=for-the-badge&logo=github)](https://github.com/mishandri)
+[![Telegram](https://img.shields.io/badge/Telegram-hexmikhail-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hexmikhail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikhail_Kolchar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mikhail-kolchar)
+[![Habr Career](https://img.shields.io/badge/Habr_Career-Mikhail_Kolchar-77A2B6?style=for-the-badge&logo=habr)](https://career.habr.com/mikhail-kolchar)
+[![DataLens](https://img.shields.io/badge/DataLens-Portfolio-FF7800?style=for-the-badge&logo=yandex)](https://datalens.yandex/6eiukr5xyukyr)
+
+---
+
+## Контакты
+
+- **Location:** Архангельск, Россия (Удалённо / Релокация)
+- **Email:** [kolcharma@gmail.com](mailto:kolcharma@gmail.com)
+- **Phone:** +7-999-250-9045
+- **Telegram:** [@hexmikhail](https://t.me/hexmikhail)
+
+---
+
+## Обо мне
+
+В ИТ **больше 7 лет**. Из них **6 лет проработал в госсекторе системным администратором**, где основной моей болью и радостью была автоматизация отчетов через SQL. В 2025 году решил, что пора превратить это в основную профессию, и прошел интенсивную переподготовку.
+
+Сейчас помогаю бизнесу видеть свои данные: строю **ETL-пайплайны** (Airflow, Python), проектирую **витрины** и рисую **дашборды**. Люблю находить неочевидные закономерности. Занимаюсь визуализацией аналитики в Power BI, Yandex DataLens, AW BI и Visiology. Имею практические навыки в стандартизации метрик и устранении расхождений в данных. Способен эффективно переводить бизнес-задачи в технические требования и обратно, выстраивать архитектуру данных с нуля до визуализации.
+
+---
+
+## Опты работы
+
+### Денвик Аналитика — BI Аналитик
+*07.2025 — Наст.время · 9 месяцев*
+
+**Стек:** SQL · ClickHouse · PostgreSQL · Visiology · DataLens · 1C · Power BI · DAX · Python · DVT
+
+**Достижения:**
+
+- **Редизайн дашборда:** Переработал дизайн и функциональность корпоративного дашборда в DataLens → Клиентам нравится. Количество лидов **увеличилось на 15%**. 
+  - *Ссылка:* [DataLens Gallery](https://datalens.ru/gallery/2gwxkkz3o5ian)
+
+- **Автоматизация ручных отчетов:** С нуля построил витрину данных с помощью оконных функций SQL (нарастающие итоги, групповые агрегаты) → Данные обновляются автоматически при открытии дашборда.
+
+- **Оптимизация планирования закупок:** Разработал параметризованный дашборд в DataLens с прогнозом спроса на основе сезонных коэффициентов → Значительно сократил время планирования, исключил ручные ошибки.
+
+- **Оптимизация финансового отчета:** Проанализировал SQL-запрос, заменил вложенные подзапросы на оконные функции, оптимизировал индексы → **Время выполнения отчета сократилось с 2+ минут до 3 секунд**.
+
+- **Улучшение HR-дашборда:** Добавил динамику метрик (рост/снижение год к году) и фильтры по категориям сотрудников → HR-отдел получил возможность трендового анализа вместо простой фиксации фактов.
+
+---
+
+### Стажировка (Частичная занятость) — Аналитик данных
+*01.2025 — 10.2025 · 10 месяцев*
+
+**Projects:**
+
+| Project | Description |
+|---------|-------------|
+| **Marketplace Sales Analysis** | Analytical queries and exploratory data analysis |
+| **Pharmacy Network Analytics** | ABC/XYZ analysis, invoice processing from 1C, ETL pipeline for receipts (PostgreSQL), KPI dashboards (Superset) |
+| **Education Portal Analytics** | MAU/WAU/DAU, retention metrics, user activity by day/week/referral, correlation with performance, API data extraction to PostgreSQL |
+| **IT-Resume Analytics** | ETL pipelines for corporate client sales data |
+| **Retail Network Analysis** | Exploratory data analysis, Power BI dashboard for analysts |
+
+**Portfolio:** [github.com/mishandri/Data-Analysis](https://github.com/mishandri/Data-Analysis)
+
+---
+
+### District Court — System Administrator
+*03.2019 — 07.2025 · 6 years 5 months*
+
+**Tech Stack:** SQL · Oracle SQL · MySQL · FirebirdSQL · Windows Server
+
+**Responsibilities:**
+- Developed and optimized **50+ complex SQL queries** for ad-hoc reporting
+- Administered Windows Server (2003/2008/2012R2): Active Directory, Group Policy
+- Managed backups (software, scripts), configured mini-ATS systems
+- Conducted training sessions, prepared quarterly/annual reports
+
+---
+
+### GeekBrains — Expert
+*08.2022 — 11.2023 · 1 year 4 months*
+
+**Tech Stack:** Python · NumPy · Matplotlib · Scikit-learn · Windows Server · WMI · PowerShell
+
+**Responsibilities:**
+- Taught courses on Windows Server, WMI, and PowerShell (webinars, consultations)
+- Reviewed homework for Python Data Science libraries (NumPy, Matplotlib, Scikit-learn)
+
+---
+
+## Education & Certifications
+
+| Program | Institution | Period |
+|---------|-------------|--------|
+| **Deep Learning Engineer** (in progress) | Simulative | 2026 |
+| **Machine Learning Engineer** (in progress) | Simulative | 2026 |
+| **Data Engineer** (Diploma) | Simulative | 2025 |
+| **Data Analyst** (Diploma) | Simulative | 2025 |
+| **BI Analyst** (Diploma) | Simulative | 2025 |
+| **Postgraduate Studies** — Geometry and Topology | NArFU, Arkhangelsk | 2013-2016 |
+| **Master's Degree** — Applied Mathematics and CS | NArFU, Arkhangelsk | 2010-2012 |
+| **Specialist Degree** — Mathematics (CS specialization) | Pomor State University | 2005-2010 |
+
+---
+
+## Technical Skills
+
+### Core Competencies
+- **SQL:** PostgreSQL, ClickHouse, Oracle SQL, MySQL, FirebirdSQL
+- **BI & Visualization:** Power BI (DAX), DataLens, Superset, Metabase, Visiology
+- **ETL & Data Engineering:** Python, Airflow, Docker, Linux, Hadoop, Hive, Spark/pySpark
+- **Data Science & ML:** Scikit-learn, NumPy, Matplotlib, PyTorch (learning), NLP, CV
+- **Product Analytics:** A/B Testing, Product Metrics, Retention (MAU/WAU/DAU), Cohort Analysis
+- **Other:** Git, 1C, Excel, Windows Server Administration
+
+---
+
+## Featured Projects
+
+- **[DataLens Dashboard](https://datalens.ru/gallery/2gwxkkz3o5ian)**
+- **[DataLens Analytics](https://datalens.ru/gallery/gx1h48lns7le1)**
+- **[GitHub Portfolio](https://github.com/mishandri/Data-Analysis)**
+
+---
+
+*Last updated: 04/2026*
