@@ -98,7 +98,7 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 |---------|-------------|--------|
 | **Deep Learning Engineer** (in progress) | Simulative | 2026 |
 | **Machine Learning Engineer** (in progress) | Simulative | 2026 |
-| **Data Engineer** (Diploma) | Simulative | 2025 |
+| **Data Engineer** (Diploma) | Simulative | 2026 |
 | **Data Analyst** (Diploma) | Simulative | 2025 |
 | **BI Analyst** (Diploma) | Simulative | 2025 |
 | **Postgraduate Studies** — Geometry and Topology | NArFU, Arkhangelsk | 2013-2016 |
