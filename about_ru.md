@@ -20,9 +20,9 @@ permalink: /about_ru/
 
 ## Контакты
 
-- **Location:** Архангельск, Россия (Удалённо / Релокация)
+- **Местоположение:** Архангельск, Россия (Удалённо / Релокация)
 - **Email:** [kolcharma@gmail.com](mailto:kolcharma@gmail.com)
-- **Phone:** +7-999-250-9045
+- **Телефон:** +7-999-250-9045
 - **Telegram:** [@hexmikhail](https://t.me/hexmikhail)
 
 ---
