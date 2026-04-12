@@ -115,7 +115,7 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 - **ETL & Data Engineering:** Python, Airflow, Docker, Linux, Hadoop, Hive, Spark/pySpark
 - **Data Science & ML:** Scikit-learn, NumPy, Matplotlib, PyTorch (learning), NLP, CV
 - **Product Analytics:** A/B Testing, Product Metrics, Retention (MAU/WAU/DAU), Cohort Analysis
-- **Other:** Git, 1C, Excel, Windows Server Administration
+- **Other:** Git, 1C, Excel, Windows Server Administration.
 
 ---
 
