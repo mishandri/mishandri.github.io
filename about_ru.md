@@ -13,7 +13,7 @@ permalink: /about_ru/
 
 **BI аналитик** | **Аналитик данных** | **Инженер данных** | **Дата-сайентист** | ***7+ лет в IT***
 
-***Автор телеграм-канала [@Null++](https://t.me/nullpp) для тех, кто хочет развиваться как Data Analyst, Data Engineer, BI-Analyst и Data Scientist***
+***Автор телеграм-канала [@Null++](https://t.me/nullpp) для тех, кто хочет развиваться как Data Analyst, Data Engineer, BI-Analyst или Data Scientist***
 
 [![GitHub](https://img.shields.io/badge/GitHub-mishandri-181717?style=for-the-badge&logo=github)](https://github.com/mishandri)
 [![Telegram](https://img.shields.io/badge/Telegram-hexmikhail-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hexmikhail)
