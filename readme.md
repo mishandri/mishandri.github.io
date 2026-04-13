@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikhail_Kolchar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mikhail-kolchar)
 [![Telegram](https://img.shields.io/badge/Telegram-hexmikhail-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hexmikhail)
 [![TelegramCH](https://img.shields.io/badge/Telegram-null++-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/nullpp)
-[![Habr Career](https://img.shields.io/badge/Habr_Career-Mikhail_Kolchar-77A2B6?style=for-the-badge&logo=habr)](https://career.habr.com/mikhail-kolchar)
+[![Habr Career](https://img.shields.io/badge/Habr_Career-Mikhail_Kolchar-77A2B6?style=for-the-badge&logo=habr)](https://career.habr.com/mishandri)
 [![DataLens](https://img.shields.io/badge/DataLens-Portfolio-FF7800?style=for-the-badge&logo=yandex)](https://datalens.yandex/6eiukr5xyukyr)
 
 ---
