@@ -4,8 +4,9 @@ title: Портфолио
 permalink: /portfolioDA_ru/
 ---
 
-### [About me (EN)](/) | [Portfolio Data Analyst (EN)](/portfolioDA/) | [Portfolio Data Scientist (EN)](/portfolioDS/)
-### [Обо мне (RU)](/about_ru/) | Портфолио Аналитика Данных (RU) | [Портфолио Дата-сайентиста (RU)](/portfolioDS_ru/)
+### [About me (EN)](/) | [Обо мне (RU)](/about_ru/)
+### [Portfolio Data Analyst (EN)](/portfolioDA/) | Портфолио Аналитика Данных (RU)
+### [Portfolio Data Scientist (EN)](/portfolioDS/) | [Портфолио Дата-сайентиста (RU)](/portfolioDS_ru/) 
 
 Есть практический опыт анализа реальных бизнес-кейсов.
 
