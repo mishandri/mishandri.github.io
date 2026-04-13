@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Портфолио
-permalink: /portfolio_ru/
+permalink: /portfolioDA_ru/
 ---
 
-### [About me (EN)](/) | [Portfolio (EN)](/portfolio/) | [Обо мне (RU)](/about_ru/) | Портфолио (RU)
+### [About me (EN)](/) | [Portfolio Data Analyst (EN)](/portfolioDA/) | [Portfolio Data Scientist (EN)](/portfolioDS/)
+### [Обо мне (RU)](/about_ru/) | Портфолио Аналитика Данных (RU) | [Портфолио Дата-сайентиста (RU)](/portfolioDS_ru/)
 
 Есть практический опыт анализа реальных бизнес-кейсов.
 
