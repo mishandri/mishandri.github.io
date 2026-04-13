@@ -6,6 +6,8 @@
 
 **BI Analyst** | **Data Analyst** | **Data Engineer** | **Data Scientist** | ***7+ years in IT***
 
+***The author of a Telegram channel [@Null++](https://t.me/nullpp) for those who want to developfor those who want to grow as a Data Analyst, Data Engineer, BI Analyst or Data Scientist***
+
 [![GitHub](https://img.shields.io/badge/GitHub-mishandri-181717?style=for-the-badge&logo=github)](https://github.com/mishandri)
 [![Telegram](https://img.shields.io/badge/Telegram-hexmikhail-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hexmikhail)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikhail_Kolchar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mikhail-kolchar)
