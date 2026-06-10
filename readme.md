@@ -36,15 +36,23 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ## Work Experience
 
+### Excite Kit — Middle Data Analyst
+*06.2026 — Present · 1 months*
+
+**Tech Stack:** SQL · ClickHouse · DataLens · Python · A/B-tests
+
+I provide the company's clients with data analytics and BI reporting to support management decisions.
+
+---
+
 ### Denvik Analytics — BI Analyst
-*07.2025 — Present · 9 months*
+*07.2025 — 06.2026 · 11 months*
 
 **Tech Stack:** SQL · ClickHouse · PostgreSQL · Visiology · DataLens · 1C · Power BI · DAX · Python · DVT
 
 **Key Achievements:**
 
 - **Client-facing dashboard redesign:** Redesigned dashboard layout and functionality in DataLens → Positive client feedback and **15% increase in leads**.
-  - *Link:* [DataLens Gallery](https://datalens.ru/gallery/2gwxkkz3o5ian)
 
 - **Manual report automation:** Built a data mart from scratch using SQL window functions (running totals, group aggregates) → Data updates automatically when dashboard is opened.
 
@@ -126,11 +134,10 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ## Featured Projects
 
-- **[DataLens Dashboard](https://datalens.ru/gallery/2gwxkkz3o5ian)**
 - **[DataLens Analytics](https://datalens.ru/gallery/gx1h48lns7le1)**
 - **[GitHub Portfolio DA](https://github.com/mishandri/Data-Analysis)**
 - **[GitHub Portfolio DS](https://github.com/mishandri/Data-Science)**
 
 ---
 
-*Last updated: 04/2026*
+*Last updated: 06/10/2026*
