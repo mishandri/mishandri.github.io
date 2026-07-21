@@ -1,6 +1,8 @@
 ### About me (EN) | [Обо мне (RU)](/about_ru/)
+
 ### [Portfolio Data Analyst (EN)](/portfolioDA/) | [Портфолио Аналитика Данных (RU)](/portfolioDA_ru/)
-### [Portfolio Data Scientist (EN)](/portfolioDS/) | [Портфолио Дата-сайентиста (RU)](/portfolioDS_ru/) 
+
+### [Portfolio Data Scientist (EN)](/portfolioDS/) | [Портфолио Дата-сайентиста (RU)](/portfolioDS_ru/)
 
 # CV (Resume)
 
@@ -37,7 +39,8 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 ## Work Experience
 
 ### Excite Kit — Middle Data Analyst
-*06.2026 — Present · 1 months*
+
+*06.2026 — Present · 2 months*
 
 **Tech Stack:** SQL · ClickHouse · DataLens · Python · A/B-tests
 
@@ -46,6 +49,7 @@ I provide the company's clients with data analytics and BI reporting to support 
 ---
 
 ### Denvik Analytics — BI Analyst
+
 *07.2025 — 06.2026 · 11 months*
 
 **Tech Stack:** SQL · ClickHouse · PostgreSQL · Visiology · DataLens · 1C · Power BI · DAX · Python · DVT
@@ -53,40 +57,39 @@ I provide the company's clients with data analytics and BI reporting to support 
 **Key Achievements:**
 
 - **Client-facing dashboard redesign:** Redesigned dashboard layout and functionality in DataLens → Positive client feedback and **15% increase in leads**.
-
 - **Manual report automation:** Built a data mart from scratch using SQL window functions (running totals, group aggregates) → Data updates automatically when dashboard is opened.
-
 - **Purchase planning optimization:** Developed a parameterized dashboard in DataLens with demand forecast using seasonal coefficients → Drastically reduced planning time, eliminated manual errors.
-
 - **Financial report optimization:** Analyzed SQL query, replaced nested subqueries with window functions, optimized indexes → **Report execution time reduced from 2+ minutes to 3 seconds**.
-
 - **HR dashboard enhancement:** Added metric dynamics (YoY growth/decline) and employee category filters → HR gained trend analysis capabilities instead of just recording facts.
 
 ---
 
 ### Internship (Part-time) — Data Analytics
+
 *01.2025 — 10.2025 · 10 months*
 
 **Projects:**
 
-| Project | Description |
-|---------|-------------|
-| **Marketplace Sales Analysis** | Analytical queries and exploratory data analysis |
-| **Pharmacy Network Analytics** | ABC/XYZ analysis, invoice processing from 1C, ETL pipeline for receipts (PostgreSQL), KPI dashboards (Superset) |
+| Project                              | Description                                                                                                                         |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Marketplace Sales Analysis** | Analytical queries and exploratory data analysis                                                                                    |
+| **Pharmacy Network Analytics** | ABC/XYZ analysis, invoice processing from 1C, ETL pipeline for receipts (PostgreSQL), KPI dashboards (Superset)                     |
 | **Education Portal Analytics** | MAU/WAU/DAU, retention metrics, user activity by day/week/referral, correlation with performance, API data extraction to PostgreSQL |
-| **IT-Resume Analytics** | ETL pipelines for corporate client sales data |
-| **Retail Network Analysis** | Exploratory data analysis, Power BI dashboard for analysts |
+| **IT-Resume Analytics**        | ETL pipelines for corporate client sales data                                                                                       |
+| **Retail Network Analysis**    | Exploratory data analysis, Power BI dashboard for analysts                                                                          |
 
 **Portfolio:** [github.com/mishandri/Data-Analysis](https://github.com/mishandri/Data-Analysis)
 
 ---
 
 ### District Court — System Administrator
+
 *03.2019 — 07.2025 · 6 years 5 months*
 
 **Tech Stack:** SQL · Oracle SQL · MySQL · FirebirdSQL · Windows Server
 
 **Responsibilities:**
+
 - Developed and optimized **50+ complex SQL queries** for ad-hoc reporting
 - Administered Windows Server (2003/2008/2012R2): Active Directory, Group Policy
 - Managed backups (software, scripts), configured mini-ATS systems
@@ -95,11 +98,13 @@ I provide the company's clients with data analytics and BI reporting to support 
 ---
 
 ### GeekBrains — Expert
+
 *08.2022 — 11.2023 · 1 year 4 months*
 
 **Tech Stack:** Python · NumPy · Matplotlib · Scikit-learn · Windows Server · WMI · PowerShell
 
 **Responsibilities:**
+
 - Taught courses on Windows Server, WMI, and PowerShell (webinars, consultations)
 - Reviewed homework for Python Data Science libraries (NumPy, Matplotlib, Scikit-learn)
 
@@ -107,15 +112,15 @@ I provide the company's clients with data analytics and BI reporting to support 
 
 ## Education & Certifications
 
-| Program | Institution | Period |
-|---------|-------------|--------|
-| **Deep Learning Engineer** (in progress) | Simulative | 2026 |
-| **Machine Learning Engineer** (in progress) | Simulative | 2026 |
-| **Data Engineer** (Diploma) | Simulative | 2026 |
-| **Data Analyst** (Diploma) | Simulative | 2025 |
-| **BI Analyst** (Diploma) | Simulative | 2025 |
-| **Postgraduate Studies** — Geometry and Topology | NArFU, Arkhangelsk | 2013-2016 |
-| **Master's Degree** — Applied Mathematics and CS | NArFU, Arkhangelsk | 2010-2012 |
+| Program                                                        | Institution            | Period    |
+| -------------------------------------------------------------- | ---------------------- | --------- |
+| **Deep Learning Engineer** (in progress)                 | Simulative             | 2026      |
+| **Machine Learning Engineer** (in progress)              | Simulative             | 2026      |
+| **Data Engineer** (Diploma)                              | Simulative             | 2026      |
+| **Data Analyst** (Diploma)                               | Simulative             | 2025      |
+| **BI Analyst** (Diploma)                                 | Simulative             | 2025      |
+| **Postgraduate Studies** — Geometry and Topology        | NArFU, Arkhangelsk     | 2013-2016 |
+| **Master's Degree** — Applied Mathematics and CS        | NArFU, Arkhangelsk     | 2010-2012 |
 | **Specialist Degree** — Mathematics (CS specialization) | Pomor State University | 2005-2010 |
 
 ---
@@ -123,6 +128,7 @@ I provide the company's clients with data analytics and BI reporting to support 
 ## Technical Skills
 
 ### Core Competencies
+
 - **SQL:** PostgreSQL, ClickHouse, Oracle SQL, MySQL, FirebirdSQL
 - **BI & Visualization:** Power BI (DAX), DataLens, Superset, Metabase, Visiology
 - **ETL & Data Engineering:** Python, Airflow, Docker, Linux, Hadoop, Hive, Spark/pySpark
