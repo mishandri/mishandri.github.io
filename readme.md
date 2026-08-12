@@ -47,7 +47,7 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 Provide clients with data analytics and BI reporting to support management decisions.
 SQL (window functions, CTEs, optimization), DataLens (developing dashboards, creating data marts, calculated fields), A/B testing
   
-- **Migrating a large Russian company's analytics to Russian solutions:** Created analytical dashboards (DataLens) for transaction analysis, fraud detection, and loyalty program effectiveness. More than 50 reports were redesigned and updated.
+- **Migrating a large Russian company's analytics to Russian solutions:** Created analytical dashboards (DataLens) for transaction analysis, fraud detection, and loyalty program effectiveness → More than 50 reports were redesigned and updated.
 
 Main responsibilities:
 - Developing and supporting interactive BI reports (using UXrocket + DataLens).
