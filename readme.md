@@ -30,7 +30,7 @@
 
 ## Summary
 
-Over **7 years in IT**, including **6 years as a System Administrator** in the government sector, where my primary focus was automating reporting using SQL. In 2025, I decided to transition this expertise into a dedicated analytics role and completed intensive retraining.
+Over **7.5 years in IT**, including **6 years as a System Administrator** in the government sector, where my primary focus was automating reporting using SQL. In 2025, I decided to transition this expertise into a dedicated analytics role and completed intensive retraining.
 
 I help businesses understand their data by building **ETL pipelines** (Airflow, Python), designing **data marts**, and creating **dashboards**. I enjoy uncovering hidden patterns and have hands-on experience in metric standardization and resolving data discrepancies. I effectively bridge the gap between business goals and technical requirements, designing data architecture from the ground up to final visualization.
 
@@ -44,7 +44,16 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 **Tech Stack:** SQL · ClickHouse · DataLens · Python · A/B-tests
 
-I provide the company's clients with data analytics and BI reporting to support management decisions.
+Provide clients with data analytics and BI reporting to support management decisions.
+SQL (window functions, CTEs, optimization), DataLens (developing dashboards, creating data marts, calculated fields), A/B testing
+  
+Case: Migrating a large Russian company's analytics to Russian solutions.
+What I did: Created analytical dashboards (DataLens) for transaction analysis, fraud detection, and loyalty program effectiveness.
+Result: More than 50 reports were redesigned
+
+Main responsibilities:
+- Developing and supporting interactive BI reports (using UXrocket + DataLens).
+- A/B experiments with subsequent visualization of results in dashboards for quick demonstration (using UXrocket platform).
 
 ---
 
@@ -146,4 +155,4 @@ I provide the company's clients with data analytics and BI reporting to support 
 
 ---
 
-*Last updated: 06/10/2026*
+*Last updated: 08/12/2026*
