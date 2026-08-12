@@ -30,6 +30,7 @@ permalink: /about_ru/
 - **Email:** [kolcharma@gmail.com](mailto:kolcharma@gmail.com)
 - **Телефон:** +7-999-250-9045
 - **Telegram:** [@hexmikhail](https://t.me/hexmikhail)
+- **Резюме** [PDF](Резюме Колчар М.А.pdf)
 
 ---
 

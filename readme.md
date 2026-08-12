@@ -25,6 +25,7 @@
 - **Email:** [kolcharma@gmail.com](mailto:kolcharma@gmail.com)
 - **Phone:** +7-999-250-9045
 - **Telegram:** [@hexmikhail](https://t.me/hexmikhail)
+- **CV** [PDF](CV Kolchar Mikhail.pdf)
 
 ---
 
