@@ -40,7 +40,7 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 ### Excite Kit — Middle Data Analyst
 
-*06.2026 — Present · 2 months*
+*06.2026 — Present · 3 months*
 
 **Tech Stack:** SQL · ClickHouse · DataLens · Python · A/B-tests
 
