@@ -15,6 +15,7 @@ I have practical experience in analyzing real business data cases.
 ## Business & Product Analytics
 
 - [Product and Business Data Visualization in Analytical Dashboards: "Marketplace Sales Analysis"](https://vk.cc/cRIhh8)
+- [New York Taxi Trip Analysis](https://vk.cc/d0P0tS)
 - [Identifying Users with a Payment Chain Violating Payment System Policies](https://vk.cc/cNpZqb)
 - [Recommending Unlimited Applications Based on Traffic Analysis](https://vk.cc/cNq061)
 - [Daily Forecasting of Successful Payment Time Series](https://vk.cc/cNq1cE)
