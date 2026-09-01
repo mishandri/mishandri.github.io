@@ -125,9 +125,9 @@ Main responsibilities:
 | -------------------------------------------------------------- | ---------------------- | --------- |
 | **Deep Learning Engineer** (in progress)                 | Simulative             | 2026      |
 | **Machine Learning Engineer** (in progress)              | Simulative             | 2026      |
-| **Data Engineer** (Diploma)                              | Simulative             | 2026      |
-| **Data Analyst** (Diploma)                               | Simulative             | 2025      |
-| **BI Analyst** (Diploma)                                 | Simulative             | 2025      |
+| **Data Engineer** (Professional Retraining Diplom)       | Simulative             | 2026      |
+| **Data Analyst** (Professional Retraining Diplom)        | Simulative             | 2025      |
+| **BI Analyst** (Professional Retraining Diplom)          | Simulative             | 2025      |
 | **Postgraduate Studies** — Geometry and Topology        | NArFU, Arkhangelsk     | 2013-2016 |
 | **Master's Degree** — Applied Mathematics and CS        | NArFU, Arkhangelsk     | 2010-2012 |
 | **Specialist Degree** — Mathematics (CS specialization) | Pomor State University | 2005-2010 |
