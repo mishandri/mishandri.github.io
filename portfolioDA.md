@@ -13,7 +13,7 @@ I have practical experience in analyzing real business data cases.
 ---
 
 ## Business & Product Analytics
-
+- [New York Taxi Trip Analysis](https://vk.cc/d0P0tS)
 - [Product and Business Data Visualization in Analytical Dashboards: "Marketplace Sales Analysis"](https://vk.cc/cRIhh8)
 - [New York Taxi Trip Analysis](https://vk.cc/d0P0tS)
 - [Identifying Users with a Payment Chain Violating Payment System Policies](https://vk.cc/cNpZqb)
@@ -68,4 +68,4 @@ I have practical experience in analyzing real business data cases.
 
 ---
 
-*Last updated: 04/2026*
+*Last updated: 09/01/2026*

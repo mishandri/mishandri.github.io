@@ -156,9 +156,9 @@ SQL (сложные запросы, оконные функции, CTE, опти
 ## Избранные проекты
 
 - **[DataLens Analytics](https://datalens.ru/gallery/gx1h48lns7le1)**
-- **[GitHub Portfolio DA](https://github.com/mishandri/Data-Analysis)**
-- **[GitHub Portfolio DS](https://github.com/mishandri/Data-Science)**
+- **[GitHub Портфолио DA](https://github.com/mishandri/Data-Analysis)**
+- **[GitHub Портфолио DS\ML](https://github.com/mishandri/Data-Science)**
 
 ---
 
-*Обновлено: 12.08.2026*
+*Обновлено: 01.09.2026*

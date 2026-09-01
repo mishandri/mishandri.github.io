@@ -47,10 +47,11 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 Provide clients with data analytics and BI reporting to support management decisions.
 SQL (window functions, CTEs, optimization), DataLens (developing dashboards, creating data marts, calculated fields), A/B testing
-  
+
 - **Migrating a large Russian company's analytics to Russian solutions:** Created analytical dashboards (DataLens) for transaction analysis, fraud detection, and loyalty program effectiveness → More than 50 reports were redesigned and updated.
 
 Main responsibilities:
+
 - Developing and supporting interactive BI reports (using UXrocket + DataLens).
 - A/B experiments with subsequent visualization of results in dashboards for quick demonstration (using UXrocket platform).
 
@@ -150,8 +151,8 @@ Main responsibilities:
 
 - **[DataLens Analytics](https://datalens.ru/gallery/gx1h48lns7le1)**
 - **[GitHub Portfolio DA](https://github.com/mishandri/Data-Analysis)**
-- **[GitHub Portfolio DS](https://github.com/mishandri/Data-Science)**
+- **[GitHub Portfolio DS\ML](https://github.com/mishandri/Data-Science)**
 
 ---
 
-*Last updated: 08/12/2026*
+*Last updated: 09/01/2026*
