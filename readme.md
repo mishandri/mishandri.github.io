@@ -39,7 +39,7 @@
 
 *06.2026 — Present · 3 months*
 
-**Tech Stack:** 
+**Tech Stack:** SQL · ClickHouse · PostgreSQL · DataLens · Power BI · DAX · Python · A/B-testing
 
 **Participated in import substitution of analytics for a large retail chain:** designed and launched dashboards in DataLens for transaction monitoring, fraud detection, and loyalty performance tracking. Migrated over 50 reports with no loss of functionality, automated data mart refreshes, and loyalty visualizations helped marketing reallocate budget toward the most profitable customer segments.
 
