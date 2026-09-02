@@ -5,8 +5,8 @@ permalink: /portfolioDA/
 ---
 
 ### [About me (EN)](/) | [Обо мне (RU)](/about_ru/)
-### Portfolio Data Analyst · DA (EN) | [Портфолио Аналитика Данных · DA (RU)](/portfolioDA_ru/)
-### [Portfolio Data Scientist · DS/ML/DL (EN)](/portfolioDS/) | [Портфолио Дата-сайентиста · DS/ML/DL (RU)](/portfolioDS_ru/) 
+### Portfolio DA (EN) | [Портфолио DA (RU)](/portfolioDA_ru/)
+### [Portfolio DS/ML/DL (EN)](/portfolioDS/) | [Портфолио DS/ML/DL (RU)](/portfolioDS_ru/) 
 
 I have practical experience in analyzing real business data cases.
 
