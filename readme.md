@@ -29,9 +29,7 @@
 
 ## Summary
 
-Over **7.5 years in IT**, including **6 years as a System Administrator** in the government sector, where my primary focus was automating reporting using SQL. In 2025, I decided to transition this expertise into a dedicated analytics role and completed intensive retraining.
-
-I help businesses understand their data by building **ETL pipelines** (Airflow, Python), designing **data marts**, and creating **dashboards**. I enjoy uncovering hidden patterns and have hands-on experience in metric standardization and resolving data discrepancies. I effectively bridge the gap between business goals and technical requirements, designing data architecture from the ground up to final visualization.
+**Data Analyst with 2 years** of hands-on experience and a strong **IT background of 7.5+ years**. I manage the end-to-end data lifecycle, including advanced SQL querying, data mart design, ETL pipeline development (Airflow, Python), and interactive dashboarding (Power BI, DataLens, Metabase, Superset). My core focus is on reporting automation and enabling data-driven decision-making across business functions.
 
 ---
 
@@ -41,17 +39,9 @@ I help businesses understand their data by building **ETL pipelines** (Airflow, 
 
 *06.2026 — Present · 3 months*
 
-**Tech Stack:** SQL · ClickHouse · DataLens · Python · A/B-tests
+**Tech Stack:** 
 
-Provide clients with data analytics and BI reporting to support management decisions.
-SQL (window functions, CTEs, optimization), DataLens (developing dashboards, creating data marts, calculated fields), A/B testing
-
-- **Migrating a large Russian company's analytics to Russian solutions:** Created analytical dashboards (DataLens) for transaction analysis, fraud detection, and loyalty program effectiveness → More than 50 reports were redesigned and updated.
-
-Main responsibilities:
-
-- Developing and supporting interactive BI reports (using UXrocket + DataLens).
-- A/B experiments with subsequent visualization of results in dashboards for quick demonstration (using UXrocket platform).
+**Participated in import substitution of analytics for a large retail chain:** designed and launched dashboards in DataLens for transaction monitoring, fraud detection, and loyalty performance tracking. Migrated over 50 reports with no loss of functionality, automated data mart refreshes, and loyalty visualizations helped marketing reallocate budget toward the most profitable customer segments.
 
 ---
 
@@ -61,13 +51,17 @@ Main responsibilities:
 
 **Tech Stack:** SQL · ClickHouse · PostgreSQL · Visiology · DataLens · 1C · Power BI · DAX · Python · DVT
 
-**Key Achievements:**
+**Company demo dashboard (DataLens):** redesigned the visualization of the sales department's demo dashboard for client acquisition → leads increased by 15%.
 
-- **Client-facing dashboard redesign:** Redesigned dashboard layout and functionality in DataLens → Positive client feedback and **15% increase in leads**.
-- **Manual report automation:** Built a data mart from scratch using SQL window functions (running totals, group aggregates) → Data updates automatically when dashboard is opened.
-- **Purchase planning optimization:** Developed a parameterized dashboard in DataLens with demand forecast using seasonal coefficients → Drastically reduced planning time, eliminated manual errors.
-- **Financial report optimization:** Analyzed SQL query, replaced nested subqueries with window functions, optimized indexes → **Report execution time reduced from 2+ minutes to 3 seconds**.
-- **HR dashboard enhancement:** Added metric dynamics (YoY growth/decline) and employee category filters → HR gained trend analysis capabilities instead of just recording facts.
+**Sales dashboard (Visiology):** built an ETL process, created a data mart, and made sales analytics clear and understandable for the entire team. 
+
+**Report automation for a major client:** replaced a manual 2-day data collection process with a data mart using window functions → time savings of ~16 hours per month.
+
+**Purchase forecasting for a client:** created a dashboard with parametrization and seasonality → reduced planning time from 1 day to 30 minutes, eliminated manual consolidation errors. 
+
+**Financial report optimization for a client:** optimized the SQL query (identified bottlenecks in JOINs, added window functions + indexes) → execution time dropped from 2 minutes to 3 seconds, peak-time failures eliminated. 
+
+**HR dashboard for a large retail chain:** added year-over-year comparisons and category filters → enabled identification of turnover trends, which influenced retention of key employees (savings on hiring ~8% of the annual HR budget).
 
 ---
 
@@ -75,17 +69,21 @@ Main responsibilities:
 
 *09.2024 — 07.2026 · 10 months*
 
-**Projects:**
+**Tech Stack:** SQL · PostgreSQL · ClickHouse · Python · Power BI · DAX · Metabase · Superset · Product Analytics
 
-| Project                              | Description                                                                                                                         |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Marketplace Sales Analysis** | Analytical queries and exploratory data analysis                                                                                    |
-| **Pharmacy Network Analytics** | ABC/XYZ analysis, invoice processing from 1C, ETL pipeline for receipts (PostgreSQL), KPI dashboards (Superset)                     |
-| **Education Portal Analytics** | MAU/WAU/DAU, retention metrics, user activity by day/week/referral, correlation with performance, API data extraction to PostgreSQL |
-| **IT-Resume Analytics**        | ETL pipelines for corporate client sales data                                                                                       |
-| **Retail Network Analysis**    | Exploratory data analysis, Power BI dashboard for analysts                                                                          |
+**Marketplace and retail analytics:**
+- Conducted exploratory sales analysis for a marketplace → identified seasonal patterns and top categories for promotion.
+- Performed ABC/XYZ analysis of a pharmacy chain's product assortment → identified non-moving items and optimized inventory.
+- Built a pipeline for receipt processing (Excel files from 1С → PostgreSQL) and a KPI dashboard in Metabase.
 
-**Portfolio:** [github.com/mishandri/Data-Analysis](https://github.com/mishandri/Data-Analysis)
+**EdTech analytics (educational portal):**
+- Calculated MAU/WAU/DAU and retention, identified correlation between activity and academic performance → helped the product team improve retention in a targeted manner.
+- Analyzed transactions and internal user balances → identified factors affecting deposits and withdrawals.
+- Create ETL (site API → PostgreSQL) and dashboards in DataLens with dynamic filters.
+
+**Corporate analytics:**
+- Developed ETL processes for processing B2B client sales data.
+- Built dashboards in Power BI for analyzing retail network performance.
 
 ---
 
@@ -95,12 +93,7 @@ Main responsibilities:
 
 **Tech Stack:** SQL · Oracle SQL · MySQL · FirebirdSQL · Windows Server
 
-**Responsibilities:**
-
-- Developed and optimized **50+ complex SQL queries** for ad-hoc reporting
-- Administered Windows Server (2003/2008/2012R2): Active Directory, Group Policy
-- Managed backups (software, scripts), configured mini-ATS systems
-- Conducted training sessions, prepared quarterly/annual reports
+Developed and optimized 50+ complex SQL queries for ad-hoc departmental reporting. Administered IT infrastructure: Windows Server, Active Directory, Group Policy, backup management (software, scripts). Prepared quarterly and annual reporting on court informatization.
 
 ---
 
@@ -108,24 +101,19 @@ Main responsibilities:
 
 *08.2022 — 11.2023 · 1 year 4 months*
 
-**Tech Stack:** Python · NumPy · Matplotlib · Scikit-learn · Windows Server · WMI · PowerShell
+**Tech Stack:** Data science · Scikit-Learn · Matplotlib · Python · Numpy · Windows Server Management
 
-**Responsibilities:**
-
-- Taught courses on Windows Server, WMI, and PowerShell (webinars, consultations)
-- Reviewed homework for Python Data Science libraries (NumPy, Matplotlib, Scikit-learn)
+Taught system administration (Windows Server, PowerShell, WMI), conducted webinars and consultations. As part of expert review of Data Science homework assignments, evaluated work on NumPy, Matplotlib, Scikit-learn, which confirms deep proficiency in the Python stack for data analysis. 
 
 ---
 
 ## Education & Certifications
 
-| Program                                                                             | Institution            | Period    |
-| ----------------------------------------------------------------------------------- | ---------------------- | --------- |
-| **Deep Learning Engineer** (in progress)                                      | Simulative             | 2026      |
-| **Machine Learning Engineer** (in progress)                                   | Simulative             | 2026      |
-| **Data Engineer** (Professional Retraining Diploma · *600 academic hours*) | Simulative             | 2026      |
-| **Data Analyst** (Professional Retraining Diploma · *500 academic hours*)  | Simulative             | 2025      |
-| **BI Analyst** (Professional Retraining Diploma · *400 academic hours*)    | Simulative             | 2025      |
+| Program                                                                      | Institution            | Period    |
+| -----------------------------------------------------------------------------| ---------------------- | --------- |
+| **Deep Learning Engineer** (in progress)                                     | Simulative             | 2026      |
+| **Machine Learning Engineer** (in progress)                                  | Simulative             | 2026      |
+| **Data Engineer** (Professional Retraining Diploma · *600 academic hours*)   | Simulative             | 2026      |
 | **Postgraduate Studies** — Geometry and Topology                             | NArFU, Arkhangelsk     | 2013-2016 |
 | **Master's Degree** — Applied Mathematics and CS                             | NArFU, Arkhangelsk     | 2010-2012 |
 | **Specialist Degree** — Mathematics (CS specialization)                      | Pomor State University | 2005-2010 |
