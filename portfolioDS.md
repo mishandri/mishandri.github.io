@@ -4,10 +4,8 @@ title: Portfolio
 permalink: /portfolioDS/
 ---
 ### [About me (EN)](/) | [Обо мне (RU)](/about_ru/)
-
-### [Portfolio Data Analyst (EN)](/portfolioDA/) | [Портфолио Аналитика Данных (RU)](/portfolioDA_ru/)
-
-### Portfolio Data Scientist (EN) | [Портфолио Дата-сайентиста (RU)](/portfolioDS_ru/)
+### [Portfolio Data Analyst · DA (EN)](/portfolioDA/) | [Портфолио Аналитика Данных · DA (RU)](/portfolioDA_ru/)
+### Portfolio Data Scientist · DS/ML/DL (EN) | [Портфолио Дата-сайентиста · DS/ML/DL (RU)](/portfolioDS_ru/)
 
 I have practical experience as a data scientist working with real business data.
 
@@ -31,4 +29,4 @@ I have practical experience as a data scientist working with real business data.
 
 ---
 
-*Last updated: 09/01/2026*
+*Last updated: 2026-09-02*

@@ -4,10 +4,8 @@ title: Обо мне
 permalink: /about_ru/
 ---
 ### [About me (EN)](/) | Обо мне (RU)
-
-### [Portfolio Data Analyst (EN)](/portfolioDA/) | [Портфолио Аналитика Данных (RU)](/portfolioDA_ru/)
-
-### [Portfolio Data Scientist (EN)](/portfolioDS/) | [Портфолио Дата-сайентиста (RU)](/portfolioDS_ru/)
+### [Portfolio Data Analyst · DA (EN)](/portfolioDA/) | [Портфолио Аналитика Данных · DA (RU)](/portfolioDA_ru/)
+### [Portfolio Data Scientist · DS/ML/DL (EN)](/portfolioDS/) | [Портфолио Дата-сайентиста · DS/ML/DL (RU)](/portfolioDS_ru/)
 
 # Резюме
 
@@ -162,4 +160,4 @@ SQL (сложные запросы, оконные функции, CTE, опти
 
 ---
 
-*Обновлено: 01.09.2026*
+*Обновлено: 2026-09-02*
