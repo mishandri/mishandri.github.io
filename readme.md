@@ -73,7 +73,7 @@ Main responsibilities:
 
 ### Internship (Part-time) — Data Analytics
 
-*01.2025 — 10.2025 · 10 months*
+*09.2024 — 07.2026 · 10 months*
 
 **Projects:**
 
