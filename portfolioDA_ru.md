@@ -10,7 +10,7 @@ permalink: /portfolioDA_ru/
 
 ---
 
-## Кейсы
+## Кейсы:
 
 ---
 

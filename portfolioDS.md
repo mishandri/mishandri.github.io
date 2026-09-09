@@ -7,7 +7,9 @@ permalink: /portfolioDS/
 ### [Portfolio DA (EN)](/portfolioDA/) | [Портфолио DA (RU)](/portfolioDA_ru/)
 ### Portfolio DS/ML/DL (EN) | [Портфолио DS/ML/DL (RU)](/portfolioDS_ru/)
 
-## Cases
+---
+
+## Cases:
 
 ---
 
