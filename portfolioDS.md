@@ -11,8 +11,6 @@ permalink: /portfolioDS/
 
 ## Cases:
 
----
-
 ### [**Predicting the value of real estate**](https://github.com/mishandri/Data-Science/tree/main/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8)
 - **Problem:** Real estate aggregators need to automatically determine the market value of properties based on their characteristics for relevant pricing and optimal sales strategy selection.
 - **Solution:** Developed a machine learning model based on Lasso regression with 3rd-degree polynomial features. Implemented a preprocessing pipeline: missing value imputation, IQR-based outlier capping, categorical feature encoding, date transformation, and scaling. The model was trained on 18,349 properties. Achieved R² = 0.6863 (exceeding the 0.6 threshold). The model successfully captures non-linear relationships while avoiding overfitting through L1 regularization. Generated predictions for 3,087 test properties, ready for submission.

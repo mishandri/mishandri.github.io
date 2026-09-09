@@ -12,8 +12,6 @@ permalink: /portfolioDA/
 
 ## Cases:
 
----
-
 ### [Analysis of 12.8 Million NYC Taxi Trips: ETL Pipeline and Demand Factor Research](https://vk.cc/d0P0tS)
 - **Problem:** Identify factors influencing demand, fare, and tipping behavior.
 - **Solution:** Built an ETL pipeline in Python: loaded data from cloud storage, performed cleaning, enriched with weather data and taxi zones, and visualized key metrics. Identified peak hours and days, determined areas with the highest tips, and analyzed airport trip patterns.
