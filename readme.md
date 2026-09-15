@@ -51,7 +51,7 @@
 
 **Tech Stack:** SQL · ClickHouse · PostgreSQL · Data visualization · Python · Git
 
-I consult students on a wide range of academic issues. I specialize in reviewing thesis papers: I help bring the work up to high standards.
+I consult students on a wide range of academic issues. I specialize in reviewing thesis papers: I help refine a thesis to meet high academic standard.
 
 ---
 
