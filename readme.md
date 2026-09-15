@@ -37,13 +37,24 @@
 
 ### Excite Kit — Middle Data Analyst
 
-*06.2026 — Present · 3 months*
+*06.2026 — 09.2026 · 4 months*
 
 **Tech Stack:** SQL · ClickHouse · PostgreSQL · DataLens · Power BI · DAX · Python · A/B-testing
 
 **Participated in import substitution of analytics for a large retail chain:** designed and launched dashboards in DataLens for transaction monitoring, fraud detection, and loyalty performance tracking. Migrated over 50 reports with no loss of functionality, automated data mart refreshes, and loyalty visualizations helped marketing reallocate budget toward the most profitable customer segments.
 
 ---
+
+### Simulative — Mentor
+
+*05.2026 — present · 5 months*
+
+**Tech Stack:** SQL · ClickHouse · PostgreSQL · Data visualization · Python · Git
+
+I consult students on a wide range of academic issues. I specialize in reviewing thesis papers: I help bring the work up to high standards.
+
+---
+
 
 ### Denvik Analytics — BI Analyst
 
@@ -141,4 +152,4 @@ Taught system administration (Windows Server, PowerShell, WMI), conducted webina
 
 ---
 
-*Last updated: 2026-09-02*
+*Last updated: 2026-09-15*
