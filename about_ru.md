@@ -7,7 +7,7 @@ permalink: /about_ru/
 
 ### [Portfolio DA (EN)](/portfolioDA/) | [Портфолио DA (RU)](/portfolioDA_ru/)
 
-### [Portfolio DS/ML/DL (EN)](/portfolioDS/) | [Портфолио DS/ML/DL (RU)](/portfolioDS_ru/)
+### [Portfolio DS/ML (EN)](/portfolioDS/) | [Портфолио DS/ML (RU)](/portfolioDS_ru/)
 
 # Резюме
 

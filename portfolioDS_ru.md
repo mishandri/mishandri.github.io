@@ -5,7 +5,7 @@ permalink: /portfolioDS_ru/
 ---
 ### [About me (EN)](/) | [Обо мне (RU)](/about_ru/)
 ### [Portfolio DA (EN)](/portfolioDA/) | [Портфолио DA (RU)](/portfolioDA_ru/)
-### [Portfolio DS/ML/DL (EN)](/portfolioDS/) | Портфолио DS/ML/DL (RU)
+### [Portfolio DS/ML (EN)](/portfolioDS/) | Портфолио DS/ML (RU)
 
 ---
 
