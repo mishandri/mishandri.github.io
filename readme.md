@@ -31,7 +31,7 @@
 
 ## Summary
 
-**Data Analyst with 2 years** of hands-on experience and a strong **IT background of 7.5+ years**. I manage the end-to-end data lifecycle, including advanced SQL querying, data mart design, ETL pipeline development (Airflow, Python), and interactive dashboarding (Power BI, DataLens, Metabase, Superset). My core focus is on reporting automation and enabling data-driven decision-making across business functions.
+**Data Analyst with 2 years** of hands-on experience and a strong **IT background of 7.5+ years**. I manage the end-to-end data lifecycle, including advanced SQL querying, data mart design, ETL pipeline development (Airflow, Python), and interactive dashboarding (Power BI, DataLens, Metabase, Superset). My core focus is on reporting automation and enabling data-driven decision-making across business functions. Growing into ML and looking to bring analytics and machine learning together for predictive solutions.
 
 ---
 
