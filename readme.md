@@ -1,5 +1,7 @@
 ### About me (EN) | [Обо мне (RU)](/about_ru/)
+
 ### [Portfolio DA (EN)](/portfolioDA/) | [Портфолио DA (RU)](/portfolioDA_ru/)
+
 ### [Portfolio DS/ML/DL (EN)](/portfolioDS/) | [Портфолио DS/ML/DL (RU)](/portfolioDS_ru/)
 
 # CV (Resume)
@@ -35,7 +37,7 @@
 
 ## Work Experience
 
-### Excite Kit — Middle Data Analyst
+### Excite Kit — Middle Data Analyst (fixed-term)
 
 *06.2026 — 09.2026 · 4 months*
 
@@ -55,7 +57,6 @@ I consult students on a wide range of academic issues. I specialize in reviewing
 
 ---
 
-
 ### Denvik Analytics — BI Analyst
 
 *07.2025 — 06.2026 · 11 months*
@@ -64,13 +65,13 @@ I consult students on a wide range of academic issues. I specialize in reviewing
 
 **Company demo dashboard (DataLens):** redesigned the visualization of the sales department's demo dashboard for client acquisition → leads increased by 15%.
 
-**Sales dashboard (Visiology):** built an ETL process, created a data mart, and made sales analytics clear and understandable for the entire team. 
+**Sales dashboard (Visiology):** built an ETL process, created a data mart, and made sales analytics clear and understandable for the entire team.
 
 **Report automation for a major client:** replaced a manual 2-day data collection process with a data mart using window functions → time savings of ~16 hours per month.
 
-**Purchase forecasting for a client:** created a dashboard with parametrization and seasonality → reduced planning time from 1 day to 30 minutes, eliminated manual consolidation errors. 
+**Purchase forecasting for a client:** created a dashboard with parametrization and seasonality → reduced planning time from 1 day to 30 minutes, eliminated manual consolidation errors.
 
-**Financial report optimization for a client:** optimized the SQL query (identified bottlenecks in JOINs, added window functions + indexes) → execution time dropped from 2 minutes to 3 seconds, peak-time failures eliminated. 
+**Financial report optimization for a client:** optimized the SQL query (identified bottlenecks in JOINs, added window functions + indexes) → execution time dropped from 2 minutes to 3 seconds, peak-time failures eliminated.
 
 **HR dashboard for a large retail chain:** added year-over-year comparisons and category filters → enabled identification of turnover trends, which influenced retention of key employees (savings on hiring ~8% of the annual HR budget).
 
@@ -83,16 +84,19 @@ I consult students on a wide range of academic issues. I specialize in reviewing
 **Tech Stack:** SQL · PostgreSQL · ClickHouse · Python · Power BI · DAX · Metabase · Superset · Product Analytics
 
 **Marketplace and retail analytics:**
+
 - Conducted exploratory sales analysis for a marketplace → identified seasonal patterns and top categories for promotion.
 - Performed ABC/XYZ analysis of a pharmacy chain's product assortment → identified non-moving items and optimized inventory.
 - Built a pipeline for receipt processing (Excel files from 1С → PostgreSQL) and a KPI dashboard in Metabase.
 
 **EdTech analytics (educational portal):**
+
 - Calculated MAU/WAU/DAU and retention, identified correlation between activity and academic performance → helped the product team improve retention in a targeted manner.
 - Analyzed transactions and internal user balances → identified factors affecting deposits and withdrawals.
 - Create ETL (site API → PostgreSQL) and dashboards in DataLens with dynamic filters.
 
 **Corporate analytics:**
+
 - Developed ETL processes for processing B2B client sales data.
 - Built dashboards in Power BI for analyzing retail network performance.
 
@@ -114,17 +118,17 @@ Developed and optimized 50+ complex SQL queries for ad-hoc departmental reportin
 
 **Tech Stack:** Data science · Scikit-Learn · Matplotlib · Python · Numpy · Windows Server Management
 
-Taught system administration (Windows Server, PowerShell, WMI), conducted webinars and consultations. As part of expert review of Data Science homework assignments, evaluated work on NumPy, Matplotlib, Scikit-learn, which confirms deep proficiency in the Python stack for data analysis. 
+Taught system administration (Windows Server, PowerShell, WMI), conducted webinars and consultations. As part of expert review of Data Science homework assignments, evaluated work on NumPy, Matplotlib, Scikit-learn, which confirms deep proficiency in the Python stack for data analysis.
 
 ---
 
 ## Education & Certifications
 
-| Program                                                                      | Institution            | Period    |
-| -----------------------------------------------------------------------------| ---------------------- | --------- |
-| **Deep Learning Engineer** (in progress)                                     | Simulative             | 2026      |
-| **Machine Learning Engineer** (in progress)                                  | Simulative             | 2026      |
-| **Data Engineer** (Professional Retraining Diploma · *600 academic hours*)   | Simulative             | 2026      |
+| Program                                                                             | Institution            | Period    |
+| ----------------------------------------------------------------------------------- | ---------------------- | --------- |
+| **Deep Learning Engineer** (in progress)                                      | Simulative             | 2026      |
+| **Machine Learning Engineer** (in progress)                                   | Simulative             | 2026      |
+| **Data Engineer** (Professional Retraining Diploma · *600 academic hours*) | Simulative             | 2026      |
 | **Postgraduate Studies** — Geometry and Topology                             | NArFU, Arkhangelsk     | 2013-2016 |
 | **Master's Degree** — Applied Mathematics and CS                             | NArFU, Arkhangelsk     | 2010-2012 |
 | **Specialist Degree** — Mathematics (CS specialization)                      | Pomor State University | 2005-2010 |
@@ -152,4 +156,4 @@ Taught system administration (Windows Server, PowerShell, WMI), conducted webina
 
 ---
 
-*Last updated: 2026-09-15*
+*Last updated: 2026-09-25*
