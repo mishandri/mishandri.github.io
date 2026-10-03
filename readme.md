@@ -43,11 +43,11 @@
 
 **Tech Stack:** SQL · ClickHouse · PostgreSQL · DataLens · Power BI · DAX · Python · A/B-testing
 
-**Participated in import substitution of analytics for a large retail chain:** designed and launched dashboards in DataLens for transaction monitoring, fraud detection, and loyalty performance tracking. Migrated over 50 reports with no loss of functionality, automated data mart refreshes, and loyalty visualizations helped marketing reallocate budget toward the most profitable customer segments.
+**Participated in project for import substitution of analytics for a large retail chain (OracleDB + OracleBI → ClickHouse + DataLens):** Participated in the analytics migration project: decomposed SQL logic, designed data marts, rebuilt 50+ reports → business moved to the new stack with no loss of functionality.
 
 ---
 
-### Simulative — Mentor
+### Simulative — Data Analyst (Mentor)
 
 *05.2026 — present · 5 months*
 
@@ -57,7 +57,7 @@ I consult students on a wide range of academic issues. I specialize in reviewing
 
 ---
 
-### Denvik Analytics — BI Analyst
+### Denvik Analytics — Data Analyst / BI Analyst
 
 *07.2025 — 06.2026 · 11 months*
 
@@ -156,4 +156,4 @@ Taught system administration (Windows Server, PowerShell, WMI), conducted webina
 
 ---
 
-*Last updated: 2026-09-25*
+*Last updated: 2026-10-03*
