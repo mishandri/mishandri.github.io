@@ -46,7 +46,7 @@ permalink: /about_ru/
 
 *06.2026 — 09.2026 · 4 месяца*
 
-**Стек:** SQL · ClickHouse · PostgreSQL · DataLens · Power BI · DAX · Python · A/B-тестирование
+**Стек:** SQL · ClickHouse · PostgreSQL · DataLens · Oracle BI · Oracle
 
 **Участвовал в проекте импортозамещения аналитики для крупного ритейла (OracleDB + OracleBI → ClickHouse + DataLens):** декомпозировал SQL-логику, спроектировал витрины, воссоздал 50+ отчётов → бизнес перешёл на новый стек без потери функциональности
 
@@ -162,4 +162,4 @@ permalink: /about_ru/
 
 ---
 
-*Обновлено: 2026-10-03*
+*Обновлено: 2026-10-04*

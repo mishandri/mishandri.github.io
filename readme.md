@@ -41,7 +41,7 @@
 
 *06.2026 — 09.2026 · 4 months*
 
-**Tech Stack:** SQL · ClickHouse · PostgreSQL · DataLens · Power BI · DAX · Python · A/B-testing
+**Tech Stack:** SQL · ClickHouse · PostgreSQL · DataLens · Oracle BI · Oracle
 
 **Participated in project for import substitution of analytics for a large retail chain (OracleDB + OracleBI → ClickHouse + DataLens):** Participated in the analytics migration project: decomposed SQL logic, designed data marts, rebuilt 50+ reports → business moved to the new stack with no loss of functionality.
 
@@ -156,4 +156,4 @@ Taught system administration (Windows Server, PowerShell, WMI), conducted webina
 
 ---
 
-*Last updated: 2026-10-03*
+*Last updated: 2026-10-04*
