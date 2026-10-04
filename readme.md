@@ -148,12 +148,4 @@ Taught system administration (Windows Server, PowerShell, WMI), conducted webina
 
 ---
 
-## Featured Projects
-
-- **[DataLens Analytics](https://datalens.ru/gallery/gx1h48lns7le1)**
-- **[GitHub Portfolio DA](https://github.com/mishandri/Data-Analysis)**
-- **[GitHub Portfolio DS\ML](https://github.com/mishandri/Data-Science)**
-
----
-
 *Last updated: 2026-10-04*

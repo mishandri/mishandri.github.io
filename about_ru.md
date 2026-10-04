@@ -154,12 +154,4 @@ permalink: /about_ru/
 
 ---
 
-## Избранные проекты
-
-- **[DataLens Analytics](https://datalens.ru/gallery/gx1h48lns7le1)**
-- **[GitHub Портфолио DA](https://github.com/mishandri/Data-Analysis)**
-- **[GitHub Портфолио DS\ML](https://github.com/mishandri/Data-Science)**
-
----
-
 *Обновлено: 2026-10-04*
