@@ -54,9 +54,9 @@ permalink: /portfolioDA/
 
 ---
 
-### [Pharmacy Chain Analytics: ABC/XYZ Analysis, KPI Dashboard, and Reporting Automation](https://vk.cc/cNaRph)
+### Pharmacy Chain Analytics: ABC/XYZ Analysis, KPI Dashboard, and Reporting Automation
 - **Problem:** A pharmacy chain needed automation for processing 1C invoices, assortment analysis, and visualization of key performance indicators for inventory and sales management.
-- **Solution:** Developed a data processing pipeline: [processing 1C invoices](https://vk.cc/cNaRph) and [automated loading into PostgreSQL](https://vk.cc/cNaRpZ), building a sales data mart. Conducted [ABC/XYZ assortment analysis](https://vk.cc/cNaRnp), [Market Basket Analysis, and created a "product - pharmacy store - sales volume" table](https://vk.cc/cNaRok). [Visualized network KPIs in a Superset dashboard](https://vk.cc/cNaRqM). Identified non-performing items and categories for assortment optimization, discovered product affinities for cross-selling. The dashboard enabled daily monitoring of key network metrics.
+- **Solution:** Developed a data processing pipeline: [processing 1C invoices](https://vk.cc/cNaRph) and [automated loading into PostgreSQL](https://vk.cc/cNaRpZ), building a sales data mart. Conducted [ABC/XYZ assortment analysis](https://vk.cc/d2KZ8R), [Market Basket Analysis, and created a "product - pharmacy store - sales volume" table](https://vk.cc/d2KZ8R). [Visualized network KPIs in a Superset dashboard](https://vk.cc/cNaRqM). Identified non-performing items and categories for assortment optimization, discovered product affinities for cross-selling. The dashboard enabled daily monitoring of key network metrics.
 
 ---
 
@@ -68,13 +68,13 @@ permalink: /portfolioDA/
 
 ### [IT-Resume: Corporate Client Analytics and ETL Pipelines](https://vk.cc/cNaRx4)
 - **Problem:** Needed to provide B2B clients with analytics on their sales and implement automated data processing workflows to improve reporting efficiency.
-- **Solution:** [Developed ETL pipelines to process corporate client sales data](https://vk.cc/cNaRxE). Configured automated data updates. [Ensured data transparency for corporate clients](https://vk.cc/cNaRx4), reduced reporting turnaround time, and improved analytics accuracy through automation.
+- **Solution:** Developed ETL pipelines to process corporate client sales data. Configured automated data updates. Ensured data transparency for corporate clients, reduced reporting turnaround time, and improved analytics accuracy through automation.
 
 ---
  
-### [Retail Chain Analysis: Data Exploration and Power BI Dashboard](https://vk.cc/cNaRyy)
+### [Retail Chain Analysis: Data Exploration and Power BI Dashboard](https://vk.cc/d2KWVU)
 - **Problem:** A retail chain required an in-depth sales analysis and a user-friendly tool for its analytics team to monitor key performance indicators.
-- **Solution:** [Conducted exploratory data analysis: evaluated sales dynamics, product categories, and regional characteristics](https://vk.cc/cNaRyy). [Built an interactive Power BI dashboard](https://vk.cc/cNaRzt) for daily metric monitoring. The dashboard enabled analysts to track KPIs promptly, detect anomalies, and make data-driven decisions.
+- **Solution:** Conducted exploratory data analysis: evaluated sales dynamics, product categories, and regional characteristics. Built an interactive Power BI dashboard for daily metric monitoring. The dashboard enabled analysts to track KPIs promptly, detect anomalies, and make data-driven decisions.
 
 ---
 
