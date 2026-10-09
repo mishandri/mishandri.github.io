@@ -43,7 +43,7 @@
 
 **Tech Stack:** SQL · ClickHouse · PostgreSQL · DataLens · Oracle BI · Oracle
 
-**Participated in project for import substitution of analytics for a large retail chain (OracleDB + OracleBI → ClickHouse + DataLens):** Participated in the analytics migration project: decomposed SQL logic, designed data marts, rebuilt 50+ reports → business moved to the new stack with no loss of functionality.
+**Participated in project for import substitution of analytics for a large retail chain:** Participated in the analytics migration project: decomposed SQL logic, designed data marts, rebuilt 50+ reports → business moved to the new stack with no loss of functionality.
 
 ---
 
