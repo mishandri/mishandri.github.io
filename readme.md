@@ -6,7 +6,7 @@
 
 # CV (Resume)
 
-**BI Analyst** | **Data Analyst** | **Data Engineer** | **Data Scientist** | ***7+ years in IT***
+**Data Analyst** | **BI Analyst** | **Data Scientist** | ***7+ years in IT***
 
 ***The author of a Telegram channel [@Null++](https://t.me/nullpp) for those who want to grow as a Data Analyst, Data Engineer, BI Analyst or Data Scientist***
 
@@ -19,133 +19,137 @@
 
 ---
 
-## Contacts
+## CONTACTS
 
 - **Location:** Arkhangelsk, Russia (Remote / Relocate)
 - **Email:** [kolcharma@gmail.com](mailto:kolcharma@gmail.com)
-- **Phone:** +7-999-250-9045
 - **Telegram:** [@hexmikhail](https://t.me/hexmikhail)
 - **CV:** [PDF](CV Kolchar Mikhail.pdf)
 
 ---
 
-## Summary
+## PROFESSIONAL SUMMARY
 
-**Data Analyst with 2 years** of hands-on experience and a strong **IT background of 7.5+ years**. I manage the end-to-end data lifecycle, including advanced SQL querying, data mart design, ETL pipeline development (Airflow, Python), and interactive dashboarding (Power BI, DataLens, Metabase, Superset). My core focus is on reporting automation and enabling data-driven decision-making across business functions. Growing into ML and looking to bring analytics and machine learning together for predictive solutions.
-
----
-
-## Work Experience
-
-### Excite Kit — Middle Data Analyst (fixed-term)
-
-*06.2026 — 09.2026 · 4 months*
-
-**Tech Stack:** SQL · ClickHouse · PostgreSQL · DataLens · Oracle BI · Oracle
-
-**Participated in project for import substitution of analytics for a large retail chain:** Participated in the analytics migration project: decomposed SQL logic, designed data marts, rebuilt 50+ reports → business moved to the new stack with no loss of functionality.
+**Data Analyst with 2 years of hands-on experience (including an internship)** in SQL analytics, BI dashboards and reporting automation, backed by **7+ years in IT**. Day-to-day work covers data marts, ETL and dashboards in DataLens, Power BI and Visiology. One query rewrite cut a client's financial report runtime from 2 minutes to 3 seconds, and a manual weekly report became an automated dashboard. Projects span retail clients and internship analytics on marketplace, pharmacy and EdTech data. Mentoring students on Data Analyst course projects alongside. Open to relocation (EU, Serbia) and remote roles.
 
 ---
 
-### Simulative — Data Analyst (Mentor)
+## WORK EXPERIENCE
+
+### Simulative — Mentor, Data Analyst Course (part-time)
+
+***Online school for analytics · SQL, ClickHouse, PostgreSQL, Python, Git, data visualization***
 
 *05.2026 — present · 5 months*
 
-**Tech Stack:** SQL · ClickHouse · PostgreSQL · Data visualization · Python · Git
-
-I consult students on a wide range of academic issues. I specialize in reviewing thesis papers: I help refine a thesis to meet high academic standard.
+- Review final projects of Data Analyst course students (19 projects to date), checking the analysis and its presentation of results.
+- Give detailed written feedback on what to correct and how to make the results clearer and more convincing.
+- Draw on 8+ years of teaching experience to explain analytical concepts in plain language.
+- Took part as an invited guest in webinars.
 
 ---
 
-### Denvik Analytics — Data Analyst / BI Analyst
+### Excite Kit — Data Analyst (fixed-term contract)
+
+***Analytics migration project for a large enterprise client (under NDA) · Team of 5 · Remote***
+
+*06.2026 — 09.2026 · 4 months*
+
+- Took over 50+ business reports from a legacy BI platform and broke down the SQL logic behind each one to understand how every report is calculated.
+- Rewrote the SQL for the new analytical database dialect and checked results against the legacy reports, reporting any discrepancies to the data-migration team, which handled the data transfer.
+- Worked out which reports could share the same data, then designed and built consolidated data marts for them.
+- Rebuilt all 50+ reports as dashboards with the required filters, with the numbers reconciling against the legacy system.
+- Handed the completed work over to the client through the project manager.
+
+---
+
+
+### Denviс Analytics — BI Analyst
+
+***Analytics company delivering BI projects for clients · 200 employees · Project teams of 2–3 · Remote***
 
 *07.2025 — 06.2026 · 11 months*
 
-**Tech Stack:** SQL · ClickHouse · PostgreSQL · Visiology · DataLens · 1C · Power BI · DAX · Python · DVT
-
-**Company demo dashboard (DataLens):** redesigned the visualization of the sales department's demo dashboard for client acquisition → leads increased by 15%.
-
-**Sales dashboard (Visiology):** built an ETL process, created a data mart, and made sales analytics clear and understandable for the entire team.
-
-**Report automation for a major client:** replaced a manual 2-day data collection process with a data mart using window functions → time savings of ~16 hours per month.
-
-**Purchase forecasting for a client:** created a dashboard with parametrization and seasonality → reduced planning time from 1 day to 30 minutes, eliminated manual consolidation errors.
-
-**Financial report optimization for a client:** optimized the SQL query (identified bottlenecks in JOINs, added window functions + indexes) → execution time dropped from 2 minutes to 3 seconds, peak-time failures eliminated.
-
-**HR dashboard for a large retail chain:** added year-over-year comparisons and category filters → enabled identification of turnover trends, which influenced retention of key employees (savings on hiring ~8% of the annual HR budget).
+- Rewrote a slow financial report query for a client by fixing JOIN bottlenecks and adding window functions and indexes, which cut execution time from 2 minutes to 3 seconds and eliminated failures at peak load.
+- Replaced manual weekly report assembly for a major client (Excel files and 1C exports, 3–4 hours each week, about 16 hours per month) by loading 1C and file data into ClickHouse, building a shared data mart and SQL metrics, and publishing a dashboard that recalculates by filter in 10–15 seconds.
+- A purchase-forecasting dashboard with parameters and seasonality, built for a flower retail chain, cut planning time from 1 day to 30 minutes and removed manual consolidation errors.
+- Reworked a live HR dashboard for a large international electronics retail chain without disrupting its use, gathering requirements, reconciling metric calculations with the client's internal figures in regular calls, and adding year-over-year comparisons and category filters. The dashboard made turnover trends visible and supported retention of key employees (hiring savings of about 8% of the annual HR budget). Also closed a project iteration that had stalled before joining.
+- Created a sales dashboard in Visiology for the internal sales team, including the ETL process and a dedicated data mart.
+- Redesigned the company's sales demo dashboard in DataLens used for client acquisition, which increased leads by 15%.
 
 ---
 
-### Internship (Part-time) — Data Analytics
+### IT Resume — Data Analytics (Internship, part-time)
+
+***Analytics internship on real client data · Remote***
 
 *09.2024 — 07.2026 · 10 months*
 
-**Tech Stack:** SQL · PostgreSQL · ClickHouse · Python · Power BI · DAX · Metabase · Superset · Product Analytics
-
-**Marketplace and retail analytics:**
-
-- Conducted exploratory sales analysis for a marketplace → identified seasonal patterns and top categories for promotion.
-- Performed ABC/XYZ analysis of a pharmacy chain's product assortment → identified non-moving items and optimized inventory.
-- Built a pipeline for receipt processing (Excel files from 1С → PostgreSQL) and a KPI dashboard in Metabase.
-
-**EdTech analytics (educational portal):**
-
-- Calculated MAU/WAU/DAU and retention, identified correlation between activity and academic performance → helped the product team improve retention in a targeted manner.
-- Analyzed transactions and internal user balances → identified factors affecting deposits and withdrawals.
-- Create ETL (site API → PostgreSQL) and dashboards in DataLens with dynamic filters.
-
-**Corporate analytics:**
-
-- Developed ETL processes for processing B2B client sales data.
-- Built dashboards in Power BI for analyzing retail network performance.
+- Built a receipt-processing pipeline (Excel files from 1C to PostgreSQL) and a KPI dashboard in Metabase.
+- Calculated MAU/WAU/DAU and retention for an EdTech portal, analyzed the link between user activity and academic performance, and analyzed transactions and internal balances to identify factors behind deposits and withdrawals.
+- Set up ETL from the portal's API into PostgreSQL, with DataLens dashboards and dynamic filters on top.
+- Ran exploratory sales analysis for a marketplace (seasonal patterns, top categories) and ABC/XYZ analysis of a pharmacy chain's assortment (non-moving items).
+- Developed ETL processes for B2B client sales data and built Power BI dashboards for retail-network performance.
 
 ---
 
-### District Court — System Administrator
+### Lomonosovsky District Court, Arkhangelsk — System Administrator
 
 *03.2019 — 07.2025 · 6 years 5 months*
 
-**Tech Stack:** SQL · Oracle SQL · MySQL · FirebirdSQL · Windows Server
-
-Developed and optimized 50+ complex SQL queries for ad-hoc departmental reporting. Administered IT infrastructure: Windows Server, Active Directory, Group Policy, backup management (software, scripts). Prepared quarterly and annual reporting on court informatization.
+- Developed and optimized 50+ complex SQL queries (Oracle SQL, MySQL, FirebirdSQL) for ad-hoc reporting for court departments.
+- Administered IT infrastructure (Windows Server, Active Directory, Group Policy, backups) and prepared quarterly and annual reports on court informatization.
 
 ---
 
-### GeekBrains — Expert
+### GeekBrains — Expert Instructor
 
 *08.2022 — 11.2023 · 1 year 4 months*
 
-**Tech Stack:** Data science · Scikit-Learn · Matplotlib · Python · Numpy · Windows Server Management
-
-Taught system administration (Windows Server, PowerShell, WMI), conducted webinars and consultations. As part of expert review of Data Science homework assignments, evaluated work on NumPy, Matplotlib, Scikit-learn, which confirms deep proficiency in the Python stack for data analysis.
+- Taught system administration (Windows Server, PowerShell, WMI), ran webinars and consultations, and reviewed Data Science homework (NumPy, Matplotlib, scikit-learn).
 
 ---
 
-## Education & Certifications
-
-| Program                                                                             | Institution            | Period    |
-| ----------------------------------------------------------------------------------- | ---------------------- | --------- |
-| **Deep Learning Engineer** (in progress)                                      | Simulative             | 2026      |
-| **Machine Learning Engineer** (in progress)                                   | Simulative             | 2026      |
-| **Data Engineer** (Professional Retraining Diploma · *600 academic hours*) | Simulative             | 2026      |
-| **Postgraduate Studies** — Geometry and Topology                             | NArFU, Arkhangelsk     | 2013-2016 |
-| **Master's Degree** — Applied Mathematics and CS                             | NArFU, Arkhangelsk     | 2010-2012 |
-| **Specialist Degree** — Mathematics (CS specialization)                      | Pomor State University | 2005-2010 |
+## EDUCATION 
+| Program                                                                      | Institution                                                                      | Period    |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------- |
+| **Master's Degree**, Applied Mathematics and Computer Science                | Northern (Arctic) Federal University named after M.V. Lomonosov, Arkhangelsk     | 2010-2012 |
+| **Specialist Degree**, Mathematics with additional specialization in Computer Science  | Pomor State University named after M.V. Lomonosov, Arkhangelsk | 2005-2010 |
 
 ---
 
-## Technical Skills
+## CERTIFICATIONS 
 
-### Core Competencies
-
-- **SQL:** PostgreSQL, ClickHouse, Oracle SQL, MySQL, FirebirdSQL
-- **BI & Visualization:** Power BI (DAX), DataLens, Superset, Metabase, Visiology
-- **ETL & Data Engineering:** Python, Airflow, Docker, Linux, Hadoop, Hive, Spark/pySpark
-- **Data Science & ML:** Scikit-learn, NumPy, Matplotlib, PyTorch (learning), NLP, CV
-- **Product Analytics:** A/B Testing, Product Metrics, Retention (MAU/WAU/DAU), Cohort Analysis
-- **Other:** Git, 1C, Excel, Windows Server Administration
+| Program                                                                       | Institution            | Period    |
+| ----------------------------------------------------------------------------- | ---------------------- | --------- |
+| **Deep Learning Engineer** (in progress)                                      | Simulative             | 2027      |
+| **Machine Learning Engineer** (course completed, diploma pending)             | Simulative             | 2026      |
+| **Data Engineer** (Professional Retraining Diploma · *600 academic hours*)    | Simulative             | 2026      |
+| **BI Analyst** (Professional Retraining Diploma · *400 academic hours*)       | Simulative             | 2025      |
+| **Data Analyst** (Professional Retraining Diploma · *500 academic hours*)     | Simulative             | 2025      |
 
 ---
 
-*Last updated: 2026-10-04*
+## CORE COMPETENCIES
+
+- **Analytics:** SQL (window functions, query optimization) · Data Mart Design · ETL · Reporting Automation · Dashboard Development · Data Visualization · Exploratory Data Analysis · ABC/XYZ Analysis · Product Metrics (MAU/WAU/DAU, Retention) · Data Validation & Reconciliation · Microsoft Excel
+- **BI & Visualization:** Yandex DataLens · Power BI (DAX) · Oracle BI · Visiology · Metabase · Apache Superset
+- **Databases & Data Engineering:** ClickHouse · PostgreSQL · Oracle DB · Oracle SQL · MySQL · 1C Data Exports · Apache Airflow (basic)
+- **Programming & ML:** Python (NumPy, Matplotlib, scikit-learn) · Git · Machine Learning fundamentals (coursework)
+
+
+---
+
+## ADDITIONAL
+- Portfolio and GitHub: educational data science and data engineering projects, including an Airflow pipeline built during the Data Engineer course.
+- Author of the Telegram channel t.me/nullpp on SQL and the hh.ru job market for data analysts.
+- 8+ years of teaching experience, including IT subjects.
+
+## LANGUAGES
+- Russian — Native
+- English — Upper-Intermediate (B2)
+
+
+---
+
+*Last updated: 2026-10-16*
