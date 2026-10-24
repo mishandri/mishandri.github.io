@@ -111,6 +111,7 @@
 ---
 
 ## EDUCATION 
+
 | Program                                                                      | Institution                                                                      | Period    |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------- |
 | **Master's Degree**, Applied Mathematics and Computer Science                | Northern (Arctic) Federal University named after M.V. Lomonosov, Arkhangelsk     | 2010-2012 |
