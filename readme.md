@@ -124,7 +124,7 @@
 | Program                                                                       | Institution            | Period    |
 | ----------------------------------------------------------------------------- | ---------------------- | --------- |
 | **Deep Learning Engineer** (in progress)                                      | Simulative             | 2027      |
-| **Machine Learning Engineer** (course completed, diploma pending)             | Simulative             | 2026      |
+| **Machine Learning Engineer** (Professional Retraining Diploma · *500 academic hours*) | Simulative             | 2026      |
 | **Data Engineer** (Professional Retraining Diploma · *600 academic hours*)    | Simulative             | 2026      |
 | **BI Analyst** (Professional Retraining Diploma · *400 academic hours*)       | Simulative             | 2025      |
 | **Data Analyst** (Professional Retraining Diploma · *500 academic hours*)     | Simulative             | 2025      |
