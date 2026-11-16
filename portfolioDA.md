@@ -15,7 +15,7 @@ permalink: /portfolioDA/
 ### [Analysis of 12.8 Million NYC Taxi Trips: ETL Pipeline and Demand Factor Research](https://github.com/mishandri/Data-Analysis/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BE%D0%BA%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8%20%D0%B2%20%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D0%B5)
 - **Problem:** Identify factors influencing demand, fare, and tipping behavior.
 - **Solution:** Built an ETL pipeline in Python: loaded data from cloud storage, performed cleaning, enriched with weather data and taxi zones, and visualized key metrics. Identified peak hours and days, determined areas with the highest tips, and analyzed airport trip patterns.
-- **Stack:** Python, Pandas, visualisation
+- **Stack:** Python, Pandas, visualization
 
 ---
 
