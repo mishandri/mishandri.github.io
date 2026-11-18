@@ -89,7 +89,7 @@
 - Built a receipt-processing pipeline (Excel files from 1C to PostgreSQL) and a KPI dashboard in Metabase.
 - Calculated MAU/WAU/DAU and retention for an EdTech portal, analyzed the link between user activity and academic performance, and analyzed transactions and internal balances to identify factors behind deposits and withdrawals.
 - Set up ETL from the portal's API into PostgreSQL, with DataLens dashboards and dynamic filters on top.
-- Ran exploratory sales analysis for a marketplace (seasonal patterns, top categories) and ABC/XYZ analysis of a pharmacy chain's assortment (non-moving items).
+- Ran exploratory sales analysis for a marketplace (seasonal patterns, top categories), ABC/XYZ analysis of a pharmacy chain's assortment (non-moving items) and RFM-segmentation of customers.
 - Developed ETL processes for B2B client sales data and built Power BI dashboards for retail-network performance.
 
 ---
@@ -134,7 +134,7 @@
 
 ## CORE COMPETENCIES
 
-- **Analytics:** SQL (window functions, query optimization) · Data Mart Design · ETL · Reporting Automation · Dashboard Development · Data Visualization · Exploratory Data Analysis · ABC/XYZ Analysis · Product Metrics (MAU/WAU/DAU, Retention) · Data Validation & Reconciliation · Microsoft Excel
+- **Analytics:** SQL (window functions, query optimization) · Data Mart Design · ETL · Reporting Automation · Dashboard Development · Data Visualization · Exploratory Data Analysis · ABC/XYZ Analysis · RFM-segmentation · Product Metrics (MAU/WAU/DAU, Retention) · Data Validation & Reconciliation · Microsoft Excel
 - **BI & Visualization:** Yandex DataLens · Power BI (DAX) · Oracle BI · Visiology · Metabase · Apache Superset
 - **Databases & Data Engineering:** ClickHouse · PostgreSQL · Oracle DB · Oracle SQL · MySQL · 1C Data Exports · Apache Airflow (basic)
 - **Programming & ML:** Python (NumPy, Matplotlib, scikit-learn) · Git · Machine Learning fundamentals (coursework)
