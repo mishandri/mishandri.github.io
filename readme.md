@@ -87,10 +87,11 @@
 *09.2024 — 07.2026 · 10 months*
 
 - Built a receipt-processing pipeline (Excel files from 1C to PostgreSQL) and a KPI dashboard in Metabase.
-- Calculated MAU/WAU/DAU and retention for an EdTech portal, analyzed the link between user activity and academic performance, and analyzed transactions and internal balances to identify factors behind deposits and withdrawals.
-- Set up ETL from the portal's API into PostgreSQL, with DataLens dashboards and dynamic filters on top.
+- Calculated MAU/WAU/DAU and retention for an EdTech portal, analyzed the link between user activity and academic performance, and analyzed transactions and internal balances to identify factors behind deposits and withdrawals. Set up ETL from the portal's API into PostgreSQL, with Superset dashboards and dynamic filters on top.
+- Implemented an end-to-end automated data collection process via API: from processing and loading data in PostgreSQL to visualizing key metrics (LTV, cohort analysis, RFM-segmentation and ABC/XYZ product assortment analysis) using Yandex DataLens.
 - Ran exploratory sales analysis for a marketplace (seasonal patterns, top categories), ABC/XYZ analysis of a pharmacy chain's assortment (non-moving items) and RFM-segmentation of customers.
 - Developed ETL processes for B2B client sales data and built Power BI dashboards for retail-network performance.
+
 
 ---
 
@@ -99,7 +100,7 @@
 *03.2019 — 07.2025 · 6 years 5 months*
 
 - Developed and optimized 50+ complex SQL queries (Oracle SQL, MySQL, FirebirdSQL) for ad-hoc reporting for court departments.
-- Administered IT infrastructure (Windows Server, Active Directory, Group Policy, backups) and prepared quarterly and annual reports on court informatization.
+- Prepared quarterly and annual reports on court informatization.
 
 ---
 
@@ -154,4 +155,4 @@
 
 ---
 
-*Last updated: 2026-10-16*
+*Last updated: 2026-11-19*
