@@ -31,7 +31,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-**Data Analyst with 2 years of hands-on experience (including an internship)** in SQL analytics, BI dashboards and reporting automation, backed by **7+ years in IT**. Day-to-day work covers data marts, ETL and dashboards in DataLens, Power BI and Visiology. One query rewrite cut a client's financial report runtime from 2 minutes to 3 seconds, and a manual weekly report became an automated dashboard. Projects span retail clients and internship analytics on marketplace, pharmacy and EdTech data. Mentoring students on Data Analyst course projects alongside. Open to relocation (EU, Serbia) and remote roles.
+**Data Analyst with 2 years of hands-on experience** in SQL analytics, BI dashboards and reporting automation, backed by **7+ years in IT**. Day-to-day work covers data marts, ETL and dashboards in DataLens, Power BI and Visiology. One query rewrite cut a client's financial report runtime from 2 minutes to 3 seconds, and a manual weekly report became an automated dashboard. Projects span retail clients and internship analytics on marketplace, pharmacy and EdTech data. Mentoring students on Data Analyst course projects alongside. Open to relocation (EU, Serbia) and remote roles.
 
 ---
 
