@@ -41,7 +41,7 @@
 
 ***Online school for analytics · SQL, ClickHouse, PostgreSQL, Python, Git, data visualization***
 
-*05.2026 — present · 5 months*
+*05.2026 — present · 8 months*
 
 - Review final projects of Data Analyst course students (19 projects to date), checking the analysis and its presentation of results.
 - Give detailed written feedback on what to correct and how to make the results clearer and more convincing.
@@ -155,4 +155,4 @@
 
 ---
 
-*Last updated: 2026-11-19*
+*Last updated: 2026-11-25*
